@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hola equipo de curso de Devops, AWS ECS!');
+  res.send('Hola Este es el laboratorio de DEVOPS CI/CD AWs Pragmma de curso de Devops, AWS ECS!');
 });
 
 app.listen(3000, () => {
